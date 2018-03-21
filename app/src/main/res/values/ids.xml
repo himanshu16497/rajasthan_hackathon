@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+        <item name="nameof" type="id"/>
+        <item name="call" type="id"/>
+
+</resources>
